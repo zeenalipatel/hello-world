@@ -1,5 +1,5 @@
 <?php
 
-echo 'index file';
+echo "Hello World";
 
 ?>
